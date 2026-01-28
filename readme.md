@@ -1,20 +1,27 @@
+## 詳細說明請見：
+https://limeroshenko.blogspot.com/2026/01/blog-post.html
+
 # 內容
 
-①CnsCj2026.1.9.cin
+## 全字庫倉頡.ods 
+
+原始資料轉成試算表。
+
+## CnsCj2026.1.9.cin
 
 2026年1月版的全字庫倉頡（純全字庫倉頡）。
 
-②CnsCj2026ExtRaw.cin
+## CnsCj2026ExtRaw.cin
 
 使BIG5的字元兼容於第三代倉頡傳統打法，更符合打字習慣。
 
-③cnscj.json
+## cnscj.json
 
 給PIME用的，內容與CnsCj2026ExtRaw.cin完全一樣
 
 我沒有使CnsCj2026ExtRaw.cin兼容於主流的「微軟倉頡」，只因為古有明訓：
 
-不要拿懶叫去弄雞腿，那不只會弄髒懶叫，還會弄臭雞腿。
+**不要拿懶叫去弄雞腿，那不只會弄髒懶叫，還會弄臭雞腿。**
 
 # 「全字庫倉頡」的顯名聲明：
 
