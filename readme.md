@@ -17,7 +17,7 @@ https://limeroshenko.blogspot.com/2026/01/blog-post.html
 
 我沒有使CnsCj2026ExtRaw.cin兼容於主流的「微軟倉頡」，只因為古有明訓：
 
-**不要拿懶叫去弄雞腿，那不只會弄髒懶叫，還會弄臭雞腿。**
+**拿懶叫去弄雞腿，不只弄髒懶叫，還弄臭雞腿。**
 
 ## cnscj.json
 
