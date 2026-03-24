@@ -4,7 +4,9 @@ https://limeroshenko.blogspot.com/2026/01/blog-post.html
 # 內容
 
 我刪掉了全字庫的私人造字區用字，只保留unicode字元，避免打出一堆豆腐字。
+
 完整版的字元是：76384字
+
 小字集版為：27685字
 
 ## 全字庫倉頡.ods 
