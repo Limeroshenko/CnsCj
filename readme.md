@@ -23,7 +23,11 @@ https://limeroshenko.blogspot.com/2026/01/blog-post.html
 
 給PIME用的，內容與CnsCj2026ExtRaw.cin完全一樣
 
-## 《臺灣本土語言成果參考字表》的問題
+## CnsCj3a2026.cin
+
+這是小字集版，是給手機用的。只收到unicode延伸A區&《臺灣本土語言成果參考字表》
+
+# 《臺灣本土語言成果參考字表》的問題
 
 下面7個《臺灣本土語言成果參考字表》不知為何還放在私人造字區，我替換為unicode字元，使這些字能被正常使用。分別是：
 
